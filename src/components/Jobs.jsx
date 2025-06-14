@@ -43,7 +43,7 @@ const Jobs = () => {
               filterJobs.length === 0 ? (
                 <div className="w-full flex items-center justify-center">
                   <img
-                    src="./public/notfound.png"
+                    src="/notfound.png"
                     alt="Job not found"
                     className="w-60 h-auto my-10"
                   />
