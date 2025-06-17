@@ -150,7 +150,7 @@ const PostJob = () => {
             <div className="space-y-2">
               <Label>Experience Level</Label>
               <Input
-                name="experience"
+                name="experienceLevel"
                 value={input.experienceLevel}
                 onChange={changeEventHandler}
                 placeholder="e.g. 2+ years"
