@@ -6,7 +6,7 @@ Ini adalah frontend dari aplikasi **Job Portal** yang dibangun menggunakan **Rea
 
 ## 🔗 Repository
 
-👉 [GitHub - frontend](https://github.com/mulyani07/frontend.git)
+👉 [GitHub - frontend](https://github.com/mulyani07/frontend1.git)
 
 ---
 
@@ -37,7 +37,7 @@ Frontend ini dideploy menggunakan [Vercel](https://vercel.com).
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/mulyani07/frontend.git
+git clone https://github.com/mulyani07/frontend1.git
 cd frontend
 ```
 
